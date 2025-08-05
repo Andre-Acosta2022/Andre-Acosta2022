@@ -15,7 +15,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 - 💼 Interested in **backend, frontend, mobile, AI**, and more.
 - 🔭 In my free time, I develop personal projects and contribute to open source.
-- 📫 You can visit my portfolio : [![Portafolio](https://img.shields.io/badge/-Portafolio-24292E?logo=githubpages&logoColor=white&style=flat)](https://TU_PORTAFOLIO.com)
+- 📫 You can visit my portfolio : [![Portafolio](https://img.shields.io/badge/-Portafolio-24292E?logo=githubpages&logoColor=white&style=flat)](https://acosta-portafolio-2025.vercel.app/)
 - 📫 Reach out to me at: <a href="lougui.acosta@upeu.edu.pe">lougui.acosta@upeu.edu.pe</a>
 
 ---
